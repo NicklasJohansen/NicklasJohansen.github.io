@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD fellow_2
+role: PhD Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -20,12 +20,13 @@ organizations:
   url: https://www.ku.dk/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests...
 
 interests:
-- Artificial Intelligence
 - Social Data Science
-- Game Theory
+- Misinformation & Democracy
+- Strategy & Business Growth
+- Game Theory 
 
 education:
   courses:
@@ -43,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:nj@sodas.ku.dk".
+  link: 'mailto:nj@sodas.ku.dk'  # For a direct email link, use "mailto:nj@sodas.ku.dk".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nicklasjohansen/
@@ -66,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD fellow in Social Data Science at University of Copenhagen. I am a lecturer at the summer school teaching the course [Introduction to Social Data Science 2020](https://abjer.github.io/isds2020/).
+I am a Ph.D. fellow in Social Data Science at the University of Copenhagen. I am lecturing at [Introduction to Social Data Science 2021](https://isdsucph.github.io/isds2021), [Data Driven Organizational Analysis 2021](https://efteruddannelse.kurser.ku.dk/course/2021-2022/ASTK18379U) and [Tech Policy 2021](https://www.socialdatascience.dk/tech-policy)..
 
-My research focuses on social behaviour in democratic states during the COVID-19 epidemic, using methods from economics and data science. I have been studying mobility in relation to govermental trust and tried to estimate the amount and spread of misinformatiom. I am part of[The HOPE Project](https://hope-project.dk/) funded by [Carlsberfondet](https://www.carlsbergfondet.dk/da/Nyheder/Nyt-fra-fondet/Nyheder/25-millioner-kroner-til-forskning-i-social-adfaerd-under-Covid19).
+My research focuses on social behavior in democratic states during the COVID-19 epidemic, using a wide range of methods from social sciences and data sciences. I have been studying people's mobility patterns, the spread and combatting of misinformation, the deletion and censoring of social media content, and much more. I am part of[The HOPE Project](https://politicalscience.ku.dk/research/projects/hope/) funded by [the Carlsberg Foundation](https://www.carlsbergfondet.dk/en).
