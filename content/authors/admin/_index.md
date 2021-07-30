@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Fellow
+role: Ph.D. Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Center for Social Data Science
-  url: https://sodas.ku.dk/
+  url: https://www.socialdatascience.dk//
 - name: University of Copenhagen
   url: https://www.ku.dk/english/
 
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Fellow in Social Data Science
+  - course: Ph.D. Fellow in Social Data Science
     institution: University of Copenhagen
     year: 2020-
   - course: MSc in Business Administration and Mathematical Business Economics
