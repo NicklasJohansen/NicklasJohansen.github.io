@@ -53,9 +53,9 @@ social:
   link: https://github.com/NicklasJohansen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-# icon_pack: ai
-# link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. fellow in Social Data Science at the University of Copenhagen. I am lecturing at [Introduction to Social Data Science 2021](https://isdsucph.github.io/isds2021), [Data Driven Organizational Analysis 2021](https://efteruddannelse.kurser.ku.dk/course/2021-2022/ASTK18379U) and [Tech Policy 2021](https://www.socialdatascience.dk/tech-policy)..
+I am a Ph.D. fellow in Social Data Science at the University of Copenhagen. I teach two university courses [Introduction to Social Data Science 2021](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis 2021](https://efteruddannelse.kurser.ku.dk/course/2021-2022/ASTK18379U) as well as one executive course for professionals [Tech Policy 2021](https://www.socialdatascience.dk/tech-policy).
 
 My research focuses on social behavior in democratic states during the COVID-19 epidemic, using a wide range of methods from social sciences and data sciences. I have been studying people's mobility patterns, the spread and combatting of misinformation, the deletion and censoring of social media content, and much more. I am part of[The HOPE Project](https://politicalscience.ku.dk/research/projects/hope/) funded by [the Carlsberg Foundation](https://www.carlsbergfondet.dk/en).
