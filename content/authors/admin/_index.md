@@ -26,8 +26,6 @@ interests:
 - Computational Social Science
 - Misinformation & Democracy
 - Digital Methods & Technology
-- Strategy & Business Growth
-- Game Theory & Esports
 
 education:
   courses:
@@ -68,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-My research focuses on how digital information has affected behavior during the COVID-19 pandemic using a wide range of methods from social sciences and data sciences. Some of my studies focus on misinformation on social media, where others investigate learning effects in elementary school before, during, and after pandemic lockdowns. I am part of [The HOPE Project](https://politicalscience.ku.dk/research/projects/hope/) funded by [the Carlsberg Foundation](https://www.carlsbergfondet.dk/en).
+My research focuses on how digital information has affected behavior during the COVID-19 pandemic using a wide range of methods from social sciences and data sciences. Some of my research focuses on misinformation on social media, where others investigate learning effects in elementary school before, during, and after pandemic lockdowns. I am part of [The HOPE Project](https://politicalscience.ku.dk/research/projects/hope/) funded by [the Carlsberg Foundation](https://www.carlsbergfondet.dk/en).
 
-I teach two university courses [Introduction to Social Data Science 2021](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis 2021](https://efteruddannelse.kurser.ku.dk/course/2021-2022/ASTK18379U) as well as one executive course for professionals [Tech Policy 2021](https://www.socialdatascience.dk/tech-policy).
+I teach two university courses [Introduction to Social Data Science 2021](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis 2021](https://kurser.ku.dk/course/astk18379u/2021-2022) as well as one executive course for professionals [Tech Policy 2021](https://www.socialdatascience.dk/tech-policy).
