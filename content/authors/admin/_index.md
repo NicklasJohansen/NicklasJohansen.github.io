@@ -22,10 +22,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests...
 
-Interests:
-- [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
-- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
-- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
+#interests:
+#- dwa[HOPE](https://politicalscience.ku.dk/research/projects/hope/)
+#- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
+#- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
+
+education:
+  courses:
+  - course: Ph.D. Fellow in Social Data Science
+    institution: University of Copenhagen
+    year: 2023
 
 education:
   courses:
