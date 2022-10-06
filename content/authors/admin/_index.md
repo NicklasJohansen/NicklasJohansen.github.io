@@ -22,7 +22,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests...
 
-Research Projects :
+Interests:
 - [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
 - [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
 - [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
