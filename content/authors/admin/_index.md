@@ -22,19 +22,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests...
 
-interests:
-- Computational Social Science
-- Misinformation & Democracy
-- Digital Methods & Technology
+Research Projects :
+- [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
+- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
+- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
 
 education:
   courses:
   - course: Ph.D. Fellow in Social Data Science
     institution: University of Copenhagen
-    year: 2020-
+    year: 2023
   - course: MSc in Business Administration and Mathematical Business Economics
     institution: Copenhagen Business School
     year: 2019
+  - course: BSc in Business Administration and Mathematical Business Economics
+    institution: Copenhagen Business School
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-My research focuses on how digital information has affected behavior during the COVID-19 pandemic using a wide range of methods from social sciences and data sciences. Some of my research focuses on misinformation on social media, where others investigate learning effects in elementary school before, during, and after pandemic lockdowns. I am part of [The HOPE Project](https://politicalscience.ku.dk/research/projects/hope/) funded by [the Carlsberg Foundation](https://www.carlsbergfondet.dk/en).
+I am a Ph.D. Fellow in Social Data Science at [Copenhagen Center for Social Data Science](https://www.socialdatascience.dk//) at [University of Copenhagen](https://www.ku.dk/english/).
 
-I teach two university courses [Introduction to Social Data Science 2021](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis 2021](https://kurser.ku.dk/course/astk18379u/2021-2022) as well as one executive course for professionals [Tech Policy 2021](https://www.socialdatascience.dk/tech-policy).
+My research focuses on how digital information has affected behavior during the COVID-19 pandemic using a wide range of methods from social sciences and data sciences. Some of my research focuses on misinformation on social media, where others investigate learning effects in elementary school before, during, and after pandemic lockdowns.
+
+I teach three university courses [Elementary Social Data Science](https://kurser.ku.dk/course/ASDK20002U), [Introduction to Social Data Science](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis](https://nicklasjohansen.github.io/DO2021/) as well as one executive course for professionals [Tech Policy Lab](https://www.socialdatascience.dk/tech-policy).
