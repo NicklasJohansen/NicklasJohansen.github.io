@@ -23,15 +23,14 @@ organizations:
 bio: My research interests...
 
 #interests:
-#- dwa[HOPE](https://politicalscience.ku.dk/research/projects/hope/)
-#- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
-#- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
+- [HOPE](https://politicalscience.ku.dk/research/projects/hope/) Research Project
+- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/) Research Project
+- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/) Research Project
 
-
-research projects:
-- Computational Social Science
-- Misinformation & Democracy
-- Digital Methods & Technology
+#interests:
+#- Computational Social Science
+#- Misinformation & Democracy
+#- Digital Methods & Technology
 
 education:
   courses:
