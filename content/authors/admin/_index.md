@@ -23,9 +23,9 @@ organizations:
 bio: My research interests...
 
 interests:
-- [HOPE](https://politicalscience.ku.dk/research/projects/hope/) Research Project
-- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/) Research Project
-- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/) Research Project
+- Research Project [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
+- Research Project [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
+- Research Project [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
 
 #interests:
 #- Computational Social Science
