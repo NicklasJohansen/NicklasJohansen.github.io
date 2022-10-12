@@ -22,15 +22,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests...
 
-interests:
-- Research Project [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
-- Research Project [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
-- Research Project [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
-
 #interests:
-#- Computational Social Science
-#- Misinformation & Democracy
-#- Digital Methods & Technology
+#- Project: [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
+#- Research Project [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
+#- Research Project [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
+
+interests:
+- Innovation & Entrepreneurship
+- Technology & Data Science
+- Relations Anarchism & People
 
 education:
   courses:
