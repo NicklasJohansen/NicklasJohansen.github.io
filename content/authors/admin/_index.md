@@ -27,11 +27,11 @@ bio: My research interests...
 #- [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
 #- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
 
+
 interests:
-  courses:
-  - course: Ph.D. Fellow in Social Data Science
-    institution: University of Copenhagen
-    year: 2023
+- Computational Social Science
+- Misinformation & Democracy
+- Digital Methods & Technology
 
 education:
   courses:
