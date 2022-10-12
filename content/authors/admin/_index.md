@@ -28,7 +28,7 @@ bio: My research interests...
 #- [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
 
 
-interests:
+research projects:
 - Computational Social Science
 - Misinformation & Democracy
 - Digital Methods & Technology
