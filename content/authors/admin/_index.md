@@ -22,10 +22,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests...
 
-#interests:
-#- Project: [HOPE](https://politicalscience.ku.dk/research/projects/hope/)
-#- Research Project [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/)
-#- Research Project [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/)
+# add to bio
 
 interests:
 - Innovation & Entrepreneurship
@@ -74,8 +71,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Fellow in Social Data Science at [Copenhagen Center for Social Data Science](https://www.socialdatascience.dk//) at [University of Copenhagen](https://www.ku.dk/english/).
+I am a Ph.D. Fellow in Social Data Science at [Copenhagen Center for Social Data Science](https://www.socialdatascience.dk//) at the [University of Copenhagen](https://www.ku.dk/english/). He is an elected member of the [SAMF Ph.D. Committee](https://socialsciences.ku.dk/faculty/organisation/councils_and_committees/phd_study_committee/), [SAMF Academic Council](https://socialsciences.ku.dk/faculty/organisation/councils_and_committees/academic_council/), and [UCPH Research & Innovation Council](https://fi.ku.dk/english/kufir/). He has been nominated for [UCPH Study Environment Award](https://aarsfest.ku.dk/english/2022/study-environment-award/) and co-founded SODAS Social Committee.
 
-My research focuses on how digital information has affected behavior during the COVID-19 pandemic using a wide range of methods from social sciences and data sciences. Some of my research focuses on misinformation on social media, where others investigate learning effects in elementary school before, during, and after pandemic lockdowns.
+His research focuses on how digital information has affected behavior during the COVID-19 pandemic using various methods from social sciences and data sciences. Some of his research focuses on misinformation on social media, whereas others investigate learning effects in elementary schools before, during, and after pandemic lockdowns. He is affiliated with three research projects: [HOPE](https://politicalscience.ku.dk/research/projects/hope/), [EduQuant](https://www.economics.ku.dk/research/externally-funded-research_new/uddankvant/), and [Nation-scale Social Networks](https://sodas.ku.dk/projects/nation-scale-social-networks/). He has collaborated with academics and practitioners from the University of Copenhagen, Cornell University, UNICEF New York, The Technical
+University of Denmark, Aarhus University, The Danish Health Authorities, Statistics Denmark, and The Danish Ministry of Children & Education.
 
-I teach three university courses [Elementary Social Data Science](https://kurser.ku.dk/course/ASDK20002U), [Introduction to Social Data Science](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis](https://nicklasjohansen.github.io/DO2021/) as well as one executive course for professionals [Tech Policy Lab](https://www.socialdatascience.dk/tech-policy).
+He teaches three university courses: [Elementary Social Data Science](https://kurser.ku.dk/course/ASDK20002U), [Introduction to Social Data Science](https://isdsucph.github.io/isds2021) and [Data Driven Organizational Analysis](https://nicklasjohansen.github.io/DO2021/), and one executive leadership course in [Tech Policy](https://www.socialdatascience.dk/tech-policy).
